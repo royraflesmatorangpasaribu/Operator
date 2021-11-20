@@ -17,6 +17,6 @@ int main(){
 	EK=(k*x*x)/2;
 	
 	//output
-	cout<<"\nPeriode Getaran adalah "<<EK<<" J"<<endl;
+	cout<<"\nNilai Energi Kinetik Pegas adalah "<<EK<<" J"<<endl;
 	return 0;
 }
