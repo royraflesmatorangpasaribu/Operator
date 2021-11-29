@@ -24,5 +24,5 @@ int main(){
 	
 	cout<<"Gaya Sentripetalnya adalah "<<Fs<<endl;
 	
-	
+	return 0;
 }
