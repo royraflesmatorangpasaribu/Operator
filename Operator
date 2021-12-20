@@ -49,3 +49,10 @@ Operator Relational adalah operator yang digunakan untuk mengecek hubungan antar
 !=
 >=
 <=
+
+Operator Logical
+Operator logical adalah operator yang akan mereturn nilai 0 atau 1 berdasarkan hasil perhitungan yang dilakukan.
+
+&&  Disebut dengan AND. Akan mereturn nilai 1 jika kedua belah sisi bernilai true.
+||  Disebut dengan OR. Akan mereturn nilai 1 jika salah satu sisi bernilai true.
+!   Disebut NOT. Nilanya berasal dari kebalikan nilai itu sendiri.
