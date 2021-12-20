@@ -23,3 +23,10 @@ artimatika pada bahasa C++ dan kegunaanya.
 *   Untuk perkalian
 /   Untuk pembagian
 %   Untuk mencari sisa bagi (modulus)
+
+Operator Increment dan Decrement 
+
+Operator Increment dan Decrement adalah operator yang biasa digunakan dalam perulangan. Operator ini akan menambahkan 1 jika menggunakan increment dan akan mengurangi 1 jika menggunakan decrement.
+
+++   Untuk menambah satu
+--   Untuk mengurangi satu
