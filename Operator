@@ -40,3 +40,12 @@ Operator Assignment adalah operator yang digunakan untuk memberikan nilai pada v
 *=
 /=
 %=
+
+Operator Relational
+Operator Relational adalah operator yang digunakan untuk mengecek hubungan antara dua buah nilai. Jika 'benar' atau 'true' maka akan melakukan return 1, jika 'salah' atau 'false' maka akan mereturn 0. Contoh: 5 > 3, ini akan memberikan return 1 karena memang 5 lebih dari 3, sementara 3 > 5 akan memberikan return 0 karena 3 tidak lebih dari 5. 
+==
+> 
+< 
+!=
+>=
+<=
