@@ -1,0 +1,22 @@
+
+Pengertian
+Simpelnya, operator adalah sebuah simbol yang digunakan untuk mengoperasikan sebuah nilai atau variabel. Contoh: operator + digunakan untuk melakukan penjumlahan.
+Berdasarkan kegunaannya, operator pada bahasa C++ dapat digolongkan menjadi beberapa bagian, di antaranya:
+
+1. Operator Aritmatika
+2. Operator Increment dan Decrement 
+3. Operator Assignment
+4. Operator Relational
+5. Operator Logical
+
+Operator Aritmatika
+
+Operator Aritmatika adalah operator yang digunakan untuk melakukan operasi matermatika, 
+seperti penjumlahan, pengurangan, perkalian dan sebagainya. Berikut adalah daftar operasi 
+artimatika pada bahasa C++ dan kegunaanya.
+
++   Untuk penjumlahan
+-   Untuk pengurangan
+*   Untuk perkalian
+/   Untuk pembagian
+%   Untuk mencari sisa bagi (modulus)
