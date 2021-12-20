@@ -34,3 +34,9 @@ Operator Increment dan Decrement adalah operator yang biasa digunakan dalam peru
  Operator Assignment 
 
 Operator Assignment adalah operator yang digunakan untuk memberikan nilai pada variabel. Operator yang paling sering  digunakan adalah =.
+ =
++=
+-=
+*=
+/=
+%=
