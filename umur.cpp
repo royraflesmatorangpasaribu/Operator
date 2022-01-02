@@ -3,8 +3,10 @@ using namespace std;
 
 //minimal terdapat 1 fungsi
 int main(){
+	//deklarasi variabel
 	int tahunLahir, usia;
 	
+	//judul
 	cout<<"Program Menentukan Usia"<<endl;
 	cout<<"oleh royrafmp"<<endl<<endl;
 	
