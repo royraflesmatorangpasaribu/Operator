@@ -18,4 +18,7 @@ int main(){
 	
 	//output
 	cout<<"Usia Anda Saat ini adalah "<<usia<<" Tahun";
+	
+	//karena menggunakan fungsi main()
+	return 0;
 }
