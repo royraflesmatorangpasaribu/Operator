@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//minimal terdapat 1 fungsi
 int main(){
 	int tahunLahir, usia;
 	
